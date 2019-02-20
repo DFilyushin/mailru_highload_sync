@@ -1,0 +1,7 @@
+psycopg2
+flask
+flask-sqlalchemy
+python-dotenv
+python-dateutil
+uwsgi
+gunicorn
